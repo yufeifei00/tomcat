@@ -154,7 +154,7 @@
 
             <artifactId>ecj</artifactId>
 
-            <version>3.14.0</version>
+            <version>3.18.0</version>
 
         </dependency>
 
